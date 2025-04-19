@@ -1,0 +1,17 @@
+*.exe
+*.class
+*.o
+*.out
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
+*.pdb
+*.idb
+*.ilk
+*.obj
+*.pdb
+*.ilk
+*.idb
+.vscode/
