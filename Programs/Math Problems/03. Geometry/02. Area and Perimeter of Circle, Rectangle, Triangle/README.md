@@ -7,19 +7,19 @@ The formulas for each shape are as follows:
 
 - Circle:
 
-  - Area: $ A = \pi r^2 $
-  - Perimeter (Circumference): $ P = 2 \pi r $
+  - Area: $A = \pi r^2$
+  - Perimeter (Circumference): $P = 2 \pi r$
 
 - Rectangle:
 
-  - Area: $ A = l \times w $
-  - Perimeter: $ P = 2(l + w) $
+  - Area: $A = l \times w$
+  - Perimeter: $P = 2(l + w)$
 
 - Triangle:
   - If Right-angled:
-    - Area: $ A = \frac{1}{2} \times b \times h $ (where $b$ is the base and $h$ is the height)
+    - Area: $A = \frac{1}{2} \times b \times h$ (where $b$ is the base and $h$ is the height)
   - If not right-angled:
-    - Area: $ A = \sqrt{s(s-a)(s-b)(s-c)} $ (where $s = \frac{a+b+c}{2}$ is the semi-perimeter and $a$, $b$, and $c$ are the lengths of the sides)
+    - Area: $A = \sqrt{s(s-a)(s-b)(s-c)}$ (where $s = \frac{a+b+c}{2}$ is the semi-perimeter and $a$, $b$, and $c$ are the lengths of the sides)
   - Perimeter: $ P = a + b + c $ (where $a$, $b$, and $c$ are the lengths of the sides)
 
 ## Input
